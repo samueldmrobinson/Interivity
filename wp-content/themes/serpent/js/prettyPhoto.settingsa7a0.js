@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("a[rel^='prettyPhoto']").prettyPhoto({autoplay_slideshow:false,theme:'light_rounded'});jQuery("[class*='wp-image-']").parents('a').prettyPhoto({autoplay_slideshow:false,theme:'light_rounded'});jQuery("a[rel^='keyboardtools']").prettyPhoto({autoplay_slideshow:false,theme:'light_rounded',social_tools:''});});
